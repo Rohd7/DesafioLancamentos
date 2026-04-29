@@ -265,3 +265,7 @@ Uso de fila real (SQS/RabbitMQ)
 ✔ Front integrado
 ✔ Filtros implementados
 ✔ Testes unitários funcionando
+
+<img width="1769" height="983" alt="DiagramaC3 - ComponentDiagram" src="https://github.com/user-attachments/assets/42898321-6262-4df7-b7ca-d309d6c632aa" />
+<img width="2028" height="915" alt="DiagramaC2 - ContainerDiagram" src="https://github.com/user-attachments/assets/e02fbef6-6c96-47c3-be01-c0dd35464a79" />
+<img width="1605" height="1050" alt="DiagramaC1- SystemContextDiagram" src="https://github.com/user-attachments/assets/2c140414-ac4c-4d2d-b982-341b108305c1" />
