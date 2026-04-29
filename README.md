@@ -23,25 +23,60 @@ O sistema segue um modelo **assíncrono baseado em eventos**, simulando uma arqu
 
 ---
 
-# Projeto Lançamentos/
+## 📦 Estrutura do Projeto
 
-📦 Estrutura do Projeto
-Backend (API)
-api-lancamentos/
-API ASP.NET responsável por receber as transações e expor endpoints
-api-lancamentos.tests/
-Testes unitários da API
-Processamento (Worker)
-worker-consolidado/
-Worker responsável por processar as mensagens da fila e salvar no banco
-worker-consolidado.tests/
-Testes unitários do worker
-Frontend
-sistema-lancamentos-site/
-Interface web (Node + HTML/JS) para criação e consulta de transações
-Banco de Dados
-database.db
-Banco SQLite local utilizado pela API e pelo Worker
+### 🔹 Backend (API)
+- `api-lancamentos/`  
+  API ASP.NET responsável por receber transações e expor endpoints  
+
+- `api-lancamentos.tests/`  
+  Testes unitários da API  
+
+---
+
+### 🔹 Processamento (Worker)
+- `worker-consolidado/`  
+  Worker responsável por processar eventos e persistir dados  
+
+- `worker-consolidado.tests/`  
+  Testes unitários do worker  
+
+---
+
+### 🔹 Frontend
+- `sistema-lancamentos-site/`  
+  Interface web (Node + HTML/JS)  
+
+---
+
+### 🔹 Banco de Dados
+- `database.db`  
+  Banco SQLite local  
+
+---
+
+## ⚙️ Adaptações para ambiente de teste
+
+Para permitir execução local sem dependências externas:
+
+### 🔐 Autenticação
+- Não há autenticação real  
+- Login simulado via `localStorage`  
+
+---
+
+### 📩 Fila (SQS)
+- Substituída por um repositório local  
+- A API grava mensagens  
+- O Worker lê e processa  
+
+---
+
+### 🗄 Banco de Dados
+- SQLite (arquivo local)  
+- Não requer instalação de servidor  
+
+---
 
 ---
 
