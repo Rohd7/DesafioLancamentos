@@ -1,0 +1,124 @@
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\appsettings.Development.json
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\appsettings.json
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.staticwebassets.endpoints.json
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.exe
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.deps.json
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.runtimeconfig.json
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.pdb
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Projeto Lançamentos\api-lancamentos\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.csproj.AssemblyReference.cache
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.AssemblyInfoInputs.cache
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.AssemblyInfo.cs
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.csproj.CoreCompileInputs.cache
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.MvcApplicationPartsAssemblyInfo.cs
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.MvcApplicationPartsAssemblyInfo.cache
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\scopedcss\bundle\api-lancamentos.styles.css
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\staticwebassets.build.json
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\staticwebassets.development.json
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\swae.build.ex.cache
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lanc.0AF0EEB4.Up2Date
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.dll
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\refint\api-lancamentos.dll
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.pdb
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.genruntimeconfig.cache
+E:\Projeto Lançamentos\api-lancamentos\obj\Debug\net10.0\ref\api-lancamentos.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\appsettings.Development.json
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\appsettings.json
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.staticwebassets.endpoints.json
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.exe
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.deps.json
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.runtimeconfig.json
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\api-lancamentos.pdb
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\SistemaLancamentos\api-lancamentos\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.csproj.AssemblyReference.cache
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.AssemblyInfoInputs.cache
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.AssemblyInfo.cs
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.csproj.CoreCompileInputs.cache
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.MvcApplicationPartsAssemblyInfo.cs
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.MvcApplicationPartsAssemblyInfo.cache
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\scopedcss\bundle\api-lancamentos.styles.css
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\staticwebassets.build.json
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\staticwebassets.development.json
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\swae.build.ex.cache
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lanc.0AF0EEB4.Up2Date
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.dll
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\refint\api-lancamentos.dll
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.pdb
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\api-lancamentos.genruntimeconfig.cache
+E:\SistemaLancamentos\api-lancamentos\obj\Debug\net10.0\ref\api-lancamentos.dll
