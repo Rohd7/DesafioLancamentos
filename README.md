@@ -24,16 +24,24 @@ O sistema segue um modelo **assíncrono baseado em eventos**, simulando uma arqu
 ---
 
 # Projeto Lançamentos/
-│
-├── api-lancamentos/              # API (ASP.NET)
-├── api-lancamentos.tests/        # Testes da API
-│
-├── worker-consolidado/           # Worker (BackgroundService)
-├── worker-consolidado.tests/     # Testes do Worker
-│
-├── sistema-lancamentos-site/     # Frontend (Node + HTML/JS)
-│
-└── database.db                   # Banco SQLite
+
+📦 Estrutura do Projeto
+Backend (API)
+api-lancamentos/
+API ASP.NET responsável por receber as transações e expor endpoints
+api-lancamentos.tests/
+Testes unitários da API
+Processamento (Worker)
+worker-consolidado/
+Worker responsável por processar as mensagens da fila e salvar no banco
+worker-consolidado.tests/
+Testes unitários do worker
+Frontend
+sistema-lancamentos-site/
+Interface web (Node + HTML/JS) para criação e consulta de transações
+Banco de Dados
+database.db
+Banco SQLite local utilizado pela API e pelo Worker
 
 ---
 
