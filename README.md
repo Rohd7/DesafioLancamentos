@@ -23,7 +23,7 @@ O sistema segue um modelo **assíncrono baseado em eventos**, simulando uma arqu
 
 ---
 
-Projeto Lançamentos/
+# Projeto Lançamentos/
 │
 ├── api-lancamentos/              # API (ASP.NET)
 ├── api-lancamentos.tests/        # Testes da API
